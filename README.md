@@ -13,9 +13,6 @@ This Python code analyzes and visualizes the distribution of employment status a
 - Pandas
 - Matplotlib
   
-### Usage
-Clone the repository: git clone https://github.com/your-username/your-repo.gitReplace 'TaskDataset1.csv' with your dataset's file path or URL.Run the code.
-
 ### Installation
 
 You can install the required libraries using pip:
